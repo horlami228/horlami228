@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akintola Olamilekan</h1>
 <h3 align="center">A well driven and motivated back-end engineer</h3>
 
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1yGAbVVQkWDCKo74i3qd6X&ust=1712489991991000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDFpYuzrYUDFQAAAAAdAAAAABAE"
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=horlami228&label=Profile%20views&color=0e75b6&style=flat" alt="horlami228" /> </p>
 
 - 👨‍💻 All of my projects are available at [portfolio-infinite-glitch.vercel.app](portfolio-infinite-glitch.vercel.app)
@@ -10,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lazy_codding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lazy_codding" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/akintola-olamilekan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akintola-olamilekan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akintola-olamilekan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akintola-olamilekan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
