@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=horlami228&label=Profile%20views&color=0e75b6&style=flat" alt="horlami228" /> </p>
 
-- 👨‍💻 All of my projects are available at [portfolio-infinite-glitch.vercel.app](https://portfolio-infinite-glitch.vercel.app)
+- 👨‍💻 All of my projects are available at [portfolio-infinite-glitch.vercel.app](https://wwww.olamilekandev.site)
 
 
 - 📫 How to reach me **akintolaolamilekan@outlook.com**
