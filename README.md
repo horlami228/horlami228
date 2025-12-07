@@ -42,12 +42,12 @@ AWS Transcribe + WebSocket streaming • Instant AI transcription without manual
 Gemini AI for platform-optimized captions • Auto-posts to LinkedIn & Twitter  
 `TypeScript` `Gemini` `Google Drive API` `Prisma`
 
-### 🏥 Hospital Management System *(Private)*
+### 🏥 [Hospital Management System](https://github.com/horlami228/Hm-system/backend-hospital)
 **Microservices backend for healthcare operations**  
 Patient records, appointments, billing • Firebase auth + Redis caching  
 `NestJS` `MongoDB` `Firebase` `Redis`
 
-### 🎰 StakeControl *(Private)*
+### 🎰 [Stake Wise](https://github.com/horlami228/stake-wise)
 **Responsible gambling management API**  
 Income-based betting limits • Auto-lockout system • Monthly resets  
 `NestJS` `MongoDB` `Mongoose` `Firebase`
