@@ -1,26 +1,116 @@
-<h1 align="center">Hi 👋, I'm Akintola Olamilekan</h1>
-<h3 align="center">A well driven and motivated back-end engineer</h3>
+<div align="center">
+  <img src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="400" alt="coding">
+  
+  # 👋 Akintola Olamilekan
+  ### Backend Engineer | AI Automation Specialist | Building Systems That Scale
+  
+  <p>
+    <a href="https://twitter.com/lazy_codding"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+    <a href="https://linkedin.com/in/akintola-olamilekan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:akintolaolamilekan@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://olamilekandev.site"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+  </p>
+</div>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=horlami228&label=Profile%20views&color=0e75b6&style=flat" alt="horlami228" /> </p>
+## 🎯 What I Do
 
-- 👨‍💻 All of my projects are available at [olamilekandev.site](https://wwww.olamilekandev.site)
+I build **scalable backend systems** and **AI-powered automation workflows** that solve real business problems. From microservices handling hospital operations to AI chatbots that cut support costs by 60%, I turn complex challenges into working solutions.
 
+**Currently specializing in:**
+- 🤖 AI Voice Agents & RAG Systems (LangGraph, LlamaIndex)
+- ⚡ Workflow Automation (n8n, Make.com)
+- 🏗️ Backend Architecture (NestJS, Express, Microservices)
+- 🔗 Blockchain Development (Rust, Anchor, Solana)
 
-- 📫 How to reach me **akintolaolamilekan@outlook.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/lazy_codding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lazy_codding" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akintola-olamilekan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akintola-olamilekan" height="30" width="40" /></a>
-</p>
+## 🚀 Featured Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+### 🎙️ [DoorDash GPT](https://github.com/horlami228/doordash-GPT) 
+**AI-powered support assistant using RAG architecture**  
+LangGraph + LlamaIndex + PGVector • Eliminates hallucination with source-backed responses  
+`Python` `Groq` `Gemini` `PostgreSQL`
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=horlami228&show_icons=true&locale=en&layout=compact" alt="horlami228" /></p>
+### 🎤 [Veenote](https://github.com/horlami228/Veenote)
+**Real-time voice-to-text note-taking app**  
+AWS Transcribe + WebSocket streaming • Instant AI transcription without manual typing  
+`TypeScript` `AWS` `MongoDB` `WebSocket`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=horlami228&show_icons=true&locale=en" alt="horlami228" /></p>
+### 📅 [Post Scheduler](https://github.com/horlami228/Post-scheduler)
+**AI-powered social media automation**  
+Gemini AI for platform-optimized captions • Auto-posts to LinkedIn & Twitter  
+`TypeScript` `Gemini` `Google Drive API` `Prisma`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=horlami228&" alt="horlami228" /></p>
+### 🏥 Hospital Management System *(Private)*
+**Microservices backend for healthcare operations**  
+Patient records, appointments, billing • Firebase auth + Redis caching  
+`NestJS` `MongoDB` `Firebase` `Redis`
+
+### 🎰 StakeControl *(Private)*
+**Responsible gambling management API**  
+Income-based betting limits • Auto-lockout system • Monthly resets  
+`NestJS` `MongoDB` `Mongoose` `Firebase`
+
+---
+
+## 💼 Professional Experience
+
+**Freelance Backend Developer & Automation Specialist** • *2022 - Present*  
+- Built AI voice agents for customer engagement (inbound/outbound calls)
+- Automated hiring funnels with AI screening for recruitment firms
+- Created CRM integrations (HubSpot, Zoho) with smart workflows
+- Delivered end-to-end n8n automations for business process optimization
+
+**Proven Results:**
+- $3K+ earned through automation consulting on Upwork
+- 1,158+ hours of verified client work
+- Specialized in healthcare, fintech, and SaaS automation
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** TypeScript, JavaScript, Python, Rust, C  
+**Backend:** NestJS, Express.js, Django, Flask  
+**Databases:** MongoDB, PostgreSQL, MySQL, Redis, Firebase  
+**AI/ML:** LangChain, LlamaIndex, LangGraph, Gemini, Groq  
+**Automation:** n8n, Make.com, Zapier alternatives  
+**DevOps:** Docker, AWS, Heroku, GitHub Actions, Nginx  
+**Blockchain:** Solana, Anchor Framework, Rust  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=horlami228&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=horlami228&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=horlami228&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages">
+</div>
+
+---
+
+## 🤝 Let's Work Together
+
+I'm open to:
+- Backend development projects (NestJS, Express, Python)
+- AI integration & automation consulting
+- Microservices architecture & API design
+- Smart contract development (Solana/Rust)
+
+**📧 Reach me:** akintolaolamilekan@outlook.com  
+**💼 Hire me:** [Upwork Profile](https://www.upwork.com/freelancers/~your-profile)  
+**🌐 Portfolio:** [olamilekandev.site](https://olamilekandev.site)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=horlami228&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views">
+  
+  **"I don't just write code—I build systems that solve real problems."**
+</div>
